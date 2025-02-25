@@ -11,7 +11,7 @@ Project for learning through [The Odin Project](https://www.theodinproject.com/)
 Although responsiveness wasn't required, I still focused on it by using Flexbox with flex-wrap and media queries. It's not fully responsive yet because I didn't use JavaScript to implement the dropdown menu for mobile navigation, but I plan to update it soon.
 
 ## Preview
-You can view the live site [here](https://link-to-your-preview.com)
+You can view the live site [here](https://wagnertomaz.github.io/landing-page-theodinproject/)
 
 ## Goal
 The main goal of this project was to apply and practice the Flexbox concepts I learned in [The Odin Project](https://www.theodinproject.com/) study guide. At the same time, I was able to implement my knowledge of HTML and CSS.
