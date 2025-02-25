@@ -10,6 +10,9 @@ O [TOP](https://www.theodinproject.com/) é um roteiro de estudos open-source pa
 
 Embora estivesse indicado que a responsividade não era obrigatória, dediquei certa atenção a isso, utilizando Flexbox por meio de flex-wrap e media queries. A responsividade ainda não está 100%, pois não utilizei JavaScript para implementar o menu dropdown da navegação no celular, mas pretendo atualizar isso em breve.
 
+## Preview
+Você pode ver o site em funcionamento [aqui](https://wagnertomaz.github.io/landing-page-theodinproject/)
+
 ## Objetivo
 O objetivo principal deste projeto foi aplicar e praticar os conceitos de Flexbox do CSS aprendidos no roteiro de estudos do [The Odin Project](https://www.theodinproject.com/). Ao mesmo tempo pude implementar meus conhecimentos no HTML e CSS.
 
