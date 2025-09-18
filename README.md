@@ -1,7 +1,31 @@
-# Landing Page - The Odin Project
+# 🌐 Landing Page - The Odin Project
 
-Projeto para aprendizado pelo [The Odin Project](https://www.theodinproject.com/) (TOP). 
+Projeto feito como parte do **curso Foundations** do *The Odin Project*.  
+Este é o primeiro desafio prático: criar uma **landing page** completa com base no layout disponibilizado, usando **HTML e CSS (Flexbox)**.  
 
-O [TOP](https://www.theodinproject.com/) é um roteiro de estudos open-source para aprender desenvolvimento web full-stack. Este é o primeiro projeto aplicado por eles aos seus alunos: uma página web completa com o design que eles disponibilizaram, utilizando [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox). O conteúdo da página fica totalmente a critério do desenvolvedor.
+🔗 [Acesse o site](https://wagnertomaz.github.io/landing-page-theodinproject)<br><br>
 
-Link do site: [Landing Page](https://wagnertomaz.github.io/landing-page-theodinproject/)
+---
+
+## Sobre o Projeto
+
+- **Origem:** The Odin Project (Fundations)  
+- **Objetivo:** Praticar o uso de Flexbox e estrutura de página responsiva  
+- **O que foi feito:**  
+  - Layout seguindo o design dado pelo Odin Project  
+  - Responsividade básica para diferentes tamanhos de tela  
+  - Imagens e estilo conforme instruído  
+
+---
+
+## Tecnologias Utilizadas
+
+- HTML5  
+- CSS3  
+  - Flexbox para o layout 
+
+---
+
+## 👨‍💻 Autor
+
+- [Wagner Tomaz](https://github.com/wagnertomaz)
